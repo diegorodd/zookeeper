@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/diegorodd/zookeeper/issues"
   },
-  "homepage": "https://github.com/diegorodd/zookeeper#readme"
+  "homepage": "https://github.com/diegorodd/zookeeper#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
